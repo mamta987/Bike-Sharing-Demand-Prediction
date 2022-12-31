@@ -48,7 +48,7 @@ Understand the factors affecting the demand for these shared bikes in the Americ
 
 ## Process 
 ### 1. Data Source
-    https://www.kaggle.com/competitions/bike-sharing-demand/data
+  - [Link](https://www.kaggle.com/competitions/bike-sharing-demand/data)
     
 ### 2. Data Understanding 
   * Importing and Inspecting the data
