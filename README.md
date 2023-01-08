@@ -1,5 +1,12 @@
 # Bike-Sharing-Demand-Prediction
 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=yellow)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+
 ## Introduction
 
 A **bike-sharing** system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share system allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system. 
