@@ -37,7 +37,7 @@ Understand the factors affecting the demand for these shared bikes in the Americ
 - season : season (1:spring, 2:summer, 3:fall, 4:winter)
 - yr : year (0: 2018, 1:2019)
 - mnth : month ( 1 to 12)
-- holiday : weather day is a holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)
+- holiday : wheather day is a holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)
 - weekday : day of the week
 - workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
 + weathersit : 
@@ -64,10 +64,11 @@ Understand the factors affecting the demand for these shared bikes in the Americ
 ### 3. Data Preparation
   * Encoding
   * Data splitting 
-  * Rescaling the variables 
+  * Scaling the variables 
 
 ### 4. Training and Building the model using statsmodels 
   * Used Recursive Feature Elimination to find the most significant features 
+  * Applying Ordinary Least Squares to fit the training data
   * Further eliminating variables using Variance Inflation factor, t - statistics and it's p-values. 
   * Finalising the model with VIF less than 5 and p-value < 0.05.
   
