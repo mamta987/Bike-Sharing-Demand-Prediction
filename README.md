@@ -22,7 +22,7 @@ In this project, we will try to understand the demand for shared bikes among the
 Understand the factors affecting the demand for these shared bikes in the American market.
 * Which variables are significant in predicting the demand for shared bikes? How well those variables describe the bike demands?
 * Build a ML Regression model to predict how the demand vary with different features. 
-* Deliver the recommendations to the management so they can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expections. 
+* Deliver the recommendations to the management so they can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. 
 
 ## Initial Questions
 - Which variables are associated with demand?
